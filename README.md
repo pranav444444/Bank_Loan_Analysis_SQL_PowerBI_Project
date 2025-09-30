@@ -71,11 +71,13 @@ Summary Dashboard
 
 Overview Dashboard  
 
-<img width="1200" height="674" alt="image" src="https://github.com/user-attachments/assets/33880ca5-abd4-493c-947e-66e10a067981" />
+<img width="1200" height="674" alt="image" src="https://github.com/user-attachments/assets/aa13a869-1143-4906-ba3d-dd9f0b0e00f2" />
+
 
 Details Dashboard
 
-<img width="1200" height="674" alt="image" src="https://github.com/user-attachments/assets/14f1adb7-af10-4322-9a57-78ff35f60550" />
+<img width="1200" height="674" alt="image" src="https://github.com/user-attachments/assets/1157c358-1193-4fc0-bb2d-6cbbd3fdaa04" />
+
 
 **Project Files**
 This repository is organized to showcase the complete end-to-end workflow.
