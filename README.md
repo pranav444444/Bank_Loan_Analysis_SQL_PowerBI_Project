@@ -71,12 +71,14 @@ Summary Dashboard
 
 Overview Dashboard  
 
-<img width="1200" height="674" alt="image" src="https://github.com/user-attachments/assets/aa13a869-1143-4906-ba3d-dd9f0b0e00f2" />
+<img width="952" height="502" alt="image" src="https://github.com/user-attachments/assets/03ed6c32-b7cb-4b41-ad26-78caa0e60d62" />
+
 
 
 Details Dashboard
 
-<img width="1200" height="674" alt="image" src="https://github.com/user-attachments/assets/1157c358-1193-4fc0-bb2d-6cbbd3fdaa04" />
+<img width="967" height="494" alt="image" src="https://github.com/user-attachments/assets/28bfc77d-39b3-48fd-a52d-6a87fdce4c5b" />
+
 
 
 **Project Files**
